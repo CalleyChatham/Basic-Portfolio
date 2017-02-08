@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	text-align: left;
+}
+
+body {
+	background-image: 
+		url(assets/images/ep_naturalwhite.png);
+}
+
+header {
+	padding: 
+	margin-bottom: 20px;
+	border-color: #cccccc
+	
+}
+ section {
+	
+ }
+
+#bar {
+	background-color: #4aaaa5;
+	font-family: Georgia;
+	color: white;
+}
+
+#heading {
+	font-family: Georgia;
+	color: #4aaaa5;
+
+}
+
+ #paragraph {
+ 	font-family: Arial;
+ 	color: #777777
+
+ }
+ footer {
+ 	background-color: #666666
+ }
