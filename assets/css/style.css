@@ -5,7 +5,7 @@
 
 body {
 	background-image: 
-		url(assets/images/ep_naturalwhite.png);
+		url(../images/ep_naturalwhite.png);
 }
 
 header {
@@ -16,6 +16,14 @@ header {
 }
  section {
 	
+ }
+ #bodybox {
+ 	float: left;
+ 	width: 600px;
+ 	height: 500px;
+ 	padding-top: 10px;
+ 	margin-bottom: 10px;
+ 	background-color: white;
  }
 
 #bar {
@@ -35,6 +43,36 @@ header {
  	color: #777777
 
  }
+ #navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #777777;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
  footer {
- 	background-color: #666666
+ 	font-family: sans-serif;
+ 	text-align: center;
+ 	color: white;
+ 	background-color: #666666;
+ 	padding: 20px;
+ 	margin-bottom: 20px;
  }
