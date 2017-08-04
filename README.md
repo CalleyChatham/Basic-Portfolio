@@ -1,2 +1,2 @@
 # Basic-Portfolio
-first website-my portfolio
+Assignment 1: starting portfolio
